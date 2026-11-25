@@ -1,0 +1,10 @@
+[Unit]
+Description=Send the Time Tracker weekly email every Monday at 8:00
+
+[Timer]
+OnCalendar=Mon *-*-* 08:00:00
+# If the server was off at 8:00, send when it next starts
+Persistent=true
+
+[Install]
+WantedBy=timers.target

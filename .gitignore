@@ -1,0 +1,6 @@
+# Real credentials live only on the server
+config.php
+
+# Tracker programs are built from the tracker repo (scripts/build-release.sh) and copied in before deploying
+downloads/timetracker-*
+downloads/SHA256SUMS

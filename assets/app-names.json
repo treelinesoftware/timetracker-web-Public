@@ -1,0 +1,21 @@
+{
+  "google-chrome": "Google Chrome",
+  "firefox": "Firefox",
+  "org.mozilla.firefox": "Firefox",
+  "code": "VS Code",
+  "com.anthropic.claude": "Claude",
+  "plasmashell": "Plasma Desktop",
+  "jetbrains-toolbox": "JetBrains Toolbox",
+  "chrome": "Google Chrome",
+  "msedge": "Microsoft Edge",
+  "explorer": "File Explorer",
+  "windowsterminal": "Windows Terminal",
+  "winword": "Word",
+  "excel": "Excel",
+  "powerpnt": "PowerPoint",
+  "outlook": "Outlook",
+  "olk": "Outlook",
+  "ms-teams": "Teams",
+  "notepad": "Notepad",
+  "applicationframehost": "Windows App"
+}
